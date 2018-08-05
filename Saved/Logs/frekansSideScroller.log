@@ -1,0 +1,1157 @@
+﻿Log file open, 07/11/18 14:40:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: frekansSideScroller
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1369183443) SRandInit(-1369183443).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.289222
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.282s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-28I2SJ6 (161.9.64.152:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.11-11.40.02:684][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.11-11.40.02:684][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.11-11.40.02:704][  0]LogInit: Computer: DESKTOP-28I2SJ6
+[2018.07.11-11.40.02:704][  0]LogInit: User: mglenovo
+[2018.07.11-11.40.02:704][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.11-11.40.02:704][  0]LogInit: High frequency timer resolution =2.435777 MHz
+[2018.07.11-11.40.02:705][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.11-11.40.02:705][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.11-11.40.02:705][  0]LogMemory: Process Physical Memory: 274.20 MB used, 274.20 MB peak
+[2018.07.11-11.40.02:705][  0]LogMemory: Process Virtual Memory: 264.69 MB used, 264.69 MB peak
+[2018.07.11-11.40.02:705][  0]LogMemory: Physical Memory: 7203.29 MB used,  9092.98 MB free, 16296.27 MB total
+[2018.07.11-11.40.02:705][  0]LogMemory: Virtual Memory: 4794.16 MB used,  9092.98 MB free, 134217728.00 MB total
+[2018.07.11-11.40.02:719][  0]LogInit: Using OS detected language (tr-TR).
+[2018.07.11-11.40.02:719][  0]LogInit: Using OS detected locale (tr-TR).
+[2018.07.11-11.40.02:723][  0]LogTextLocalizationManager: No localization for 'tr-TR' exists, so 'en' will be used for the language.
+[2018.07.11-11.40.03:234][  0]LogStreaming: Display: Took  0.515s to EndInitTextLocalization.
+[2018.07.11-11.40.03:234][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.11-11.40.03:400][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.11-11.40.03:400][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.11-11.40.05:630][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.11-11.40.05:664][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2018.07.11-11.40.05:664][  0]LogD3D11RHI:       4064/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.11-11.40.05:672][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.07.11-11.40.05:672][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.11-11.40.05:674][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.11-11.40.05:674][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.11-11.40.05:674][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.11-11.40.05:689][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.11-11.40.05:689][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.11-11.40.05:689][  0]LogWindows: EnumDisplayDevices:
+[2018.07.11-11.40.05:689][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.07.11-11.40.05:689][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.07.11-11.40.05:689][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.07.11-11.40.05:689][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.11-11.40.05:689][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2018.07.11-11.40.05:689][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.11-11.40.05:689][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.11-11.40.05:689][  0]LogRHI: Texture pool is 2845 MB (70% of 4064 MB)
+[2018.07.11-11.40.05:707][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.07.11-11.40.05:707][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.11-11.40.05:707][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.11-11.40.05:718][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.11-11.40.05:719][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Intermediate/Shaders/WorkingDirectory/14496/).
+[2018.07.11-11.40.05:719][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mg-lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/895DD4954E8E763004DF5E82BFD3D8AC/'.
+[2018.07.11-11.40.05:922][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.11-11.40.05:937][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.11-11.40.05:956][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.11-11.40.05:982][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.11-11.40.06:001][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.11-11.40.06:020][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.11-11.40.06:040][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.11-11.40.06:062][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.11-11.40.06:070][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.11-11.40.06:083][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.11-11.40.06:095][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.11-11.40.06:111][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.11-11.40.06:127][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.11-11.40.06:145][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.11-11.40.06:159][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.11-11.40.06:185][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.11-11.40.06:185][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.11-11.40.06:198][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.11-11.40.06:199][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.11-11.40.06:238][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.11-11.40.06:255][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.11-11.40.06:284][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.11-11.40.06:310][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.11-11.40.06:323][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.11-11.40.06:336][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.11-11.40.06:336][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.11-11.40.06:453][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.11-11.40.06:453][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.11-11.40.06:453][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.11-11.40.08:505][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.11-11.40.08:582][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/mg-lenovo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.11-11.40.08:582][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mg-lenovo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.11-11.40.08:582][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.11-11.40.08:582][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.11-11.40.08:582][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.11-11.40.08:582][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.11-11.40.08:600][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.11-11.40.08:612][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mg-lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.11-11.40.08:612][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.11-11.40.08:612][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.11-11.40.08:624][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.11-11.40.08:625][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.11-11.40.08:625][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.11-11.40.08:625][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.11-11.40.09:311][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.07.11-11.40.09:642][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.11-11.40.09:802][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.11-11.40.09:806][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.11-11.40.09:806][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.11-11.40.09:806][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.11-11.40.09:806][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.11-11.40.09:806][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.11-11.40.09:839][  0]LogNetVersion: frekansSideScroller , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2890465654)
+[2018.07.11-11.40.10:283][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.048820 seconds
+[2018.07.11-11.40.10:290][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.11-11.40.10:290][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.11-11.40.10:290][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.11-11.40.20:524][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.11-11.40.20:558][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.11-11.40.21:136][  0]SourceControl: Source control is disabled
+[2018.07.11-11.40.21:136][  0]SourceControl: Source control is disabled
+[2018.07.11-11.40.21:156][  0]SourceControl: Source control is disabled
+[2018.07.11-11.40.21:175][  0]SourceControl: Source control is disabled
+[2018.07.11-11.40.21:774][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.11-11.40.21:938][  0]LogOcInput: OculusInput pre-init called
+[2018.07.11-11.40.22:081][  0]LogEngine: Initializing Engine...
+[2018.07.11-11.40.22:082][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.11-11.40.22:109][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.11-11.40.22:109][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.11-11.40.22:369][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.11-11.40.22:388][  0]LogInit: XAudio2 using 'Hoparlör (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.11-11.40.22:405][  0]LogInit: FAudioDevice initialized.
+[2018.07.11-11.40.22:778][  0]LogDerivedDataCache: Saved boot cache 0.37s 74MB C:/Users/mg-lenovo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.11-11.40.22:795][  0]LogInit: Texture streaming: Enabled
+[2018.07.11-11.40.22:816][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.11-11.40.22:834][  0]LogInit: Transaction tracking system initialized
+[2018.07.11-11.40.22:862][  0]BlueprintLog: New page: Editor Load
+[2018.07.11-11.40.22:975][  0]LocalizationService: Localization service is disabled
+[2018.07.11-11.40.23:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c72c4155a0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.07.11-11.40.23:103][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c72c4155a0, Size=88
+[2018.07.11-11.40.23:103][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c72c4155a0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_3:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.07.11-11.40.23:105][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c72c06f470, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.07.11-11.40.23:197][  0]LogConsoleResponse: Display: 
+[2018.07.11-11.40.23:372][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.11-11.40.23:372][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.11-11.40.23:372][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.11-11.40.23:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.11-11.40.23:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.11-11.40.24:356][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/' took 0.02s
+[2018.07.11-11.40.24:363][  0]SourceControl: Source control is disabled
+[2018.07.11-11.40.24:364][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.11-11.40.24:364][  0]LightingResults: New page: Lighting Build
+[2018.07.11-11.40.24:367][  0]MapCheck: New page: Map Check
+[2018.07.11-11.40.24:368][  0]LightingResults: New page: Lighting Build
+[2018.07.11-11.40.24:380][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c72c4155a0, Size=88
+[2018.07.11-11.40.24:454][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7136e7e40, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.11-11.40.24:465][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7136e7e40, Size=64
+[2018.07.11-11.40.24:465][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7136e7ec0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.11-11.40.24:473][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713666250, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.11-11.40.24:478][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713675120, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.40.24:480][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713675120, Size=160
+[2018.07.11-11.40.24:480][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c72c0c27a0, Size=160, Default__SideScrollerCharacter_C Function /Engine/Transient.REINST_SideScrollerCharacter_C_6:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.40.24:484][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c718cffc40, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.40.24:843][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c71361e7c8, Size=40, Default__EndBox_C Function /Game/SideScrollerBP/my_bp/EndBox.EndBox_C:ExecuteUbergraph_EndBox
+[2018.07.11-11.40.24:848][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c71361e7c8, Size=40
+[2018.07.11-11.40.24:848][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c71361e7c8, Size=40, Default__EndBox_C Function /Engine/Transient.REINST_EndBox_C_12:ExecuteUbergraph_EndBox
+[2018.07.11-11.40.24:850][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c71361e778, Size=40, Default__EndBox_C Function /Game/SideScrollerBP/my_bp/EndBox.EndBox_C:ExecuteUbergraph_EndBox
+[2018.07.11-11.40.24:881][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7131c9c00, Size=256, Default__W_MorseMain_C Function /Game/Core/W_MorseMain.W_MorseMain_C:ExecuteUbergraph_W_MorseMain
+[2018.07.11-11.40.24:907][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7131c9c00, Size=256
+[2018.07.11-11.40.24:907][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7131c9c00, Size=256, Default__W_MorseMain_C Function /Engine/Transient.REINST_W_MorseMain_C_0:ExecuteUbergraph_W_MorseMain
+[2018.07.11-11.40.24:924][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c712d99200, Size=256, Default__W_MorseMain_C Function /Game/Core/W_MorseMain.W_MorseMain_C:ExecuteUbergraph_W_MorseMain
+[2018.07.11-11.40.24:928][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c712e32440, Size=16, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.07.11-11.40.24:929][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c712e32440, Size=16
+[2018.07.11-11.40.24:929][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c712e32440, Size=16, Default__SideScrollerExampleMap_C Function /Engine/Transient.REINST_SideScrollerExampleMap_C_17:ExecuteUbergraph_SideScrollerExampleMap
+[2018.07.11-11.40.24:930][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c712e32210, Size=16, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.07.11-11.40.25:110][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.07.11-11.40.25:117][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.11-11.40.25:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7136e7ec0, Size=64
+[2018.07.11-11.40.25:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c72c0c27a0, Size=160
+[2018.07.11-11.40.25:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c71361e7c8, Size=40
+[2018.07.11-11.40.25:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7131c9c00, Size=256
+[2018.07.11-11.40.25:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c712e32440, Size=16
+[2018.07.11-11.40.25:131][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.11-11.40.25:189][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57,265ms to complete.
+[2018.07.11-11.40.25:189][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.826
+[2018.07.11-11.40.25:526][  0]LogCollectionManager: Loaded 0 collections in 0.001959 seconds
+[2018.07.11-11.40.25:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/Collections/' took 0.01s
+[2018.07.11-11.40.25:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/Developers/mglenovo/Collections/' took 0.01s
+[2018.07.11-11.40.25:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/Collections/' took 0.01s
+[2018.07.11-11.40.25:568][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.11-11.40.25:578][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2452 classes and 558 folders.
+[2018.07.11-11.40.25:586][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.11-11.40.25:847][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.11-11.40.25:853][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.11-11.40.25:881][  0]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.11-11.40.25:886][  0]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.11-11.40.25:896][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.11-11.40.26:000][  0]LogRenderer: Reallocating scene render targets to support 748x436 Format 10 NumSamples 1 (Frame:1).
+[2018.07.11-11.40.26:276][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.07.11-11.40.26:276][  0]LogLoad: (Engine Initialization) Total time: 26.62 seconds
+[2018.07.11-11.40.26:276][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.11-11.40.26:634][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.11-11.40.26:663][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.11-11.40.27:007][  1]LogAssetRegistry: Asset discovery search completed in 17.7186 seconds
+[2018.07.11-11.40.27:009][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.11-11.40.27:009][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2018.07.11-11.40.45:422][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.11-11.44.15:552][529]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.11-11.44.15:666][529]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.07.11-11.44.16:070][529]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c73016d4e8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.11-11.44.16:071][529]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c73016d4e0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.11-11.44.16:416][529]LogSlate: Took 0.021079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.11-11.45.51:846][746]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.11-11.45.53:783][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.11-11.46.19:068][374]LogSavePackage: Save=11.38ms
+[2018.07.11-11.46.19:068][374]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterface098D3F5D4B339C2F24BB9BBBA204C555.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-11.46.19:074][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-11.46.34:287][582]LogSavePackage: Save=10.03ms
+[2018.07.11-11.46.34:287][582]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterface5F1E086B419CCBCDB08DBAAF49FED63D.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-11.46.34:290][582]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-11.46.34:654][610]BlueprintLog: New page: Compile RespawnInterface
+[2018.07.11-11.47.03:606][899]LogEditorTransaction: Undo Add Out Parameter
+[2018.07.11-11.47.05:841][919]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.07.11-11.47.06:841][921]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.07.11-11.47.30:656][419]LogSlate: Took 0.019319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.11-11.48.03:001][968]LogSavePackage: Save=10.91ms
+[2018.07.11-11.48.03:001][968]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterface6B2B49934413EA6500E3298169081920.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-11.48.03:005][968]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-11.48.16:189][632]LogSavePackage: Save=10.46ms
+[2018.07.11-11.48.16:189][632]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterfaceC6647B604D92F881049761B794756938.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-11.48.16:192][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-11.48.35:482][ 79]BlueprintLog: New page: Compile RespawnInterface
+[2018.07.11-11.48.36:476][135]LogSavePackage: Save=284.14ms
+[2018.07.11-11.48.36:479][135]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterface30D5FE7F4388296D73F8D6898D543DAE.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-11.48.36:483][135]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-11.48.40:734][489]LogSlate: Window 'RespawnInterface' being destroyed
+[2018.07.11-11.48.40:741][489]LogSlate: Window 'RespawnInterface' being destroyed
+[2018.07.11-11.49.25:306][805]LogSlate: Took 0.005179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.11-11.50.14:290][309]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.11-11.50.14:290][309]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.11-11.50.14:290][309]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.11-11.50.39:616][106]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.11-11.50.39:616][106]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.11-11.50.39:616][106]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.11-11.50.50:551][890]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.11-11.50.50:552][890]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.11-11.50.50:552][890]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.11-11.52.29:956][978]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4ba10, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.30:018][978]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4ba10, Size=4
+[2018.07.11-11.52.30:018][978]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4ba10, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_73:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.30:021][978]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4a878, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.30:898][ 32]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4a878, Size=4
+[2018.07.11-11.52.30:898][ 32]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4a878, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_75:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.30:900][ 32]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49220, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.33:590][220]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49220, Size=4
+[2018.07.11-11.52.33:590][220]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49220, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_77:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.33:591][220]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4a1f8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.39:382][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4a1f8, Size=4
+[2018.07.11-11.52.39:383][666]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4a1f8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_79:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.39:384][666]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4a360, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.40:654][760]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4a360, Size=4
+[2018.07.11-11.52.40:654][760]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4a360, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_81:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.40:656][760]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4bc98, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.43:024][930]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4bc98, Size=4
+[2018.07.11-11.52.43:024][930]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4bc98, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_83:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.43:026][930]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f485b0, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.45:951][155]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f485b0, Size=4
+[2018.07.11-11.52.45:951][155]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f485b0, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_85:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.52.45:953][155]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49928, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.54.14:153][505]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49928, Size=4
+[2018.07.11-11.54.14:153][505]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49928, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_87:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.54.14:156][505]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4b350, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.55.32:291][917]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4b350, Size=4
+[2018.07.11-11.55.32:291][917]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4b350, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_89:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.55.32:297][917]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4b558, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.55.45:284][682]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4b558, Size=4
+[2018.07.11-11.55.45:284][682]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4b558, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_91:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.55.45:286][682]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4b808, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.55.57:578][162]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4b808, Size=4
+[2018.07.11-11.55.57:578][162]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4b808, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_93:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.55.57:581][162]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49e28, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.56.01:477][298]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49e28, Size=4
+[2018.07.11-11.56.01:477][298]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49e28, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_95:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.56.01:481][298]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f484e0, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.56.27:335][456]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f484e0, Size=4
+[2018.07.11-11.56.27:335][456]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f484e0, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_97:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.56.27:337][456]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4bb40, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.56.27:338][456]LogClass: Warning: Type mismatch in NewVar_0 of SKEL_SideScrollerCharacter_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2018.07.11-11.56.35:194][921]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4bb40, Size=4
+[2018.07.11-11.56.35:194][921]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4bb40, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_99:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.56.35:196][921]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49588, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.56.37:213][ 39]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49588, Size=4
+[2018.07.11-11.56.37:213][ 39]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49588, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_101:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.56.37:215][ 39]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49748, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.57.24:378][787]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49748, Size=4
+[2018.07.11-11.57.24:378][787]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49748, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_103:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.57.24:381][787]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f493a8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.57.34:486][387]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f493a8, Size=4
+[2018.07.11-11.57.34:486][387]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f493a8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_105:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.57.34:488][387]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4a658, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.57.51:177][762]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4a658, Size=4
+[2018.07.11-11.57.51:177][762]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4a658, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_107:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.57.51:179][762]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f48e90, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.57.58:335][949]LogSavePackage: Save=56.19ms
+[2018.07.11-11.57.58:335][949]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacter65E41F924F9608A6F76F889F8CAA7A83.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-11.57.58:339][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-11.57.59:180][990]LogSavePackage: Save=28.46ms
+[2018.07.11-11.57.59:180][990]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacter6EE90A7441331A2898EDBABFA73C23BF.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-11.57.59:181][990]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-11.58.48:755][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f48e90, Size=4
+[2018.07.11-11.58.48:755][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e9648, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_111:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.58.48:757][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905ea0e8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.58.52:341][491]LogSavePackage: Save=10.43ms
+[2018.07.11-11.58.52:341][491]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterfaceA0423E964069E90EDB84B5AC6862FD4D.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-11.58.52:345][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-11.58.52:778][517]BlueprintLog: New page: Compile RespawnInterface
+[2018.07.11-11.58.52:780][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905ea0e8, Size=4
+[2018.07.11-11.58.52:780][517]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905ea0e8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_114:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.58.52:787][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c718cffc40, Size=160
+[2018.07.11-11.58.52:787][517]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c78dbc27a0, Size=160, Default__SideScrollerCharacter_C Function /Engine/Transient.REINST_SideScrollerCharacter_C_118:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.58.52:791][517]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c791c689a0, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.58.53:317][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4ba10, Size=4
+[2018.07.11-11.58.53:318][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4a878, Size=4
+[2018.07.11-11.58.53:318][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49220, Size=4
+[2018.07.11-11.58.53:318][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4a1f8, Size=4
+[2018.07.11-11.58.53:318][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4a360, Size=4
+[2018.07.11-11.58.53:318][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4bc98, Size=4
+[2018.07.11-11.58.53:318][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f485b0, Size=4
+[2018.07.11-11.58.53:318][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49928, Size=4
+[2018.07.11-11.58.53:318][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e9648, Size=4
+[2018.07.11-11.58.53:318][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905ea0e8, Size=4
+[2018.07.11-11.59.26:683][350]LogSlate: Window 'Message' being destroyed
+[2018.07.11-11.59.32:492][481]LogSlate: Window 'Message' being destroyed
+[2018.07.11-11.59.32:587][481]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c75e8f6208, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.59.33:613][535]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.11-11.59.38:470][819]LogBlueprint: Error: [SideScrollerCharacter] ImplementNewInterface: Blueprint '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter' has a function or graph which conflicts with the function SetCheckpoint in the interface called 'RespawnInterface_C'
+[2018.07.11-11.59.43:019][ 89]LogBlueprint: Error: [SideScrollerCharacter] ImplementNewInterface: Blueprint '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter' has a function or graph which conflicts with the function SetCheckpoint in the interface called 'RespawnInterface_C'
+[2018.07.11-11.59.50:870][441]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.07.11-11.59.50:875][441]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c75e8f6208, Size=4
+[2018.07.11-11.59.50:875][441]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4b5f0, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_123:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.59.50:876][441]LogBlueprint: Error: [Compiler ] Internal Compiler Error: Tried to create a property Update in scope SetCheckpoint, but another object (ArrayProperty Update) already already exists there.
+[2018.07.11-11.59.50:881][441]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c791c689a0, Size=160
+[2018.07.11-11.59.50:881][441]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c787b52520, Size=160, SideScrollerCharacter_C_233 Function /Engine/Transient.REINST_SideScrollerCharacter_C_125:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.59.50:884][441]LogBlueprint: Error: [Compiler SideScrollerCharacter] Internal Compiler Error: Tried to create a property Update in scope SetCheckpoint, but another object (ArrayProperty Update) already already exists there.
+[2018.07.11-11.59.50:885][441]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c787b51d00, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-11.59.51:286][441]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4b5f0, Size=4
+[2018.07.11-11.59.51:298][441]LogBlueprint: Warning: [Compiler SideScrollerCharacter] [1191,64] Compile of SideScrollerCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 427 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2018.07.11-11.59.52:139][478]LogSavePackage: Save=38.30ms
+[2018.07.11-11.59.52:139][478]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacter4296E9504F624B5C2424C5AB5C14F6C2.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-11.59.52:142][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-11.59.57:179][603]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.11-11.59.59:141][718]LogBlueprint: Error: [SideScrollerCharacter] ImplementNewInterface: Blueprint '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter' has a function or graph which conflicts with the function SetCheckpoint in the interface called 'RespawnInterface_C'
+[2018.07.11-12.00.31:404][440]LogSavePackage: Save=10.96ms
+[2018.07.11-12.00.31:405][440]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterfaceD1B06BC641133EDA5460A5943927BFB3.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-12.00.31:408][440]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-12.00.32:091][481]BlueprintLog: New page: Compile RespawnInterface
+[2018.07.11-12.00.32:121][481]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c787b52520, Size=160
+[2018.07.11-12.01.29:322][912]LogSavePackage: Save=11.55ms
+[2018.07.11-12.01.29:322][912]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterface78B9116E4DB5DF0D9DBDB38811666BD9.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-12.01.29:325][912]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-12.01.30:860][  4]BlueprintLog: New page: Compile RespawnInterface
+[2018.07.11-12.01.37:045][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c75e8f4c38, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.01.37:831][346]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c75e8f4c38, Size=4
+[2018.07.11-12.01.37:831][346]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f48138, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_143:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.01.37:834][346]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49098, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.01.46:693][872]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.07.11-12.01.46:697][872]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49098, Size=4
+[2018.07.11-12.01.46:697][872]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c75e8f70c8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_145:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.01.46:701][872]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c787b51d00, Size=160
+[2018.07.11-12.01.46:701][872]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7627b0720, Size=160, SideScrollerCharacter_C_245 Function /Engine/Transient.REINST_SideScrollerCharacter_C_147:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.01.46:704][872]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c791b09ee0, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.01.47:172][872]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c75e8f70c8, Size=4
+[2018.07.11-12.01.55:369][322]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.11-12.01.56:643][395]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4a0c0, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.02.33:229][112]LogSlate: Window 'Message' being destroyed
+[2018.07.11-12.02.33:244][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4a0c0, Size=4
+[2018.07.11-12.02.33:244][112]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c73016cd60, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_151:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.02.33:246][112]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c73016cdf8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.02.35:447][236]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c73016cdf8, Size=4
+[2018.07.11-12.02.35:447][236]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49f78, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_153:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.02.35:450][236]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49980, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.02.36:148][275]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49980, Size=4
+[2018.07.11-12.02.36:148][275]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f49980, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_155:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.02.36:150][275]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f48690, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.02.37:998][382]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.07.11-12.02.38:002][382]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f48690, Size=4
+[2018.07.11-12.02.38:002][382]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f48690, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_157:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.02.38:006][382]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c791b09ee0, Size=160
+[2018.07.11-12.02.38:006][382]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c766f2eb60, Size=160, SideScrollerCharacter_C_307 Function /Engine/Transient.REINST_SideScrollerCharacter_C_159:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.02.38:010][382]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c72c0c0d60, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.02.38:547][382]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f48690, Size=4
+[2018.07.11-12.02.38:547][382]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c73016cd60, Size=4
+[2018.07.11-12.02.39:435][424]LogSavePackage: Save=36.07ms
+[2018.07.11-12.02.39:435][424]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacterE1DB14C04BC9F28620806CAB64E33EC3.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-12.02.39:438][424]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-12.03.53:957][851]LogSavePackage: Save=10.93ms
+[2018.07.11-12.03.53:957][851]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterface38EB3ECC46F67E6927A0CC95605019B9.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-12.03.53:959][851]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-12.03.54:548][880]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c712e32210, Size=16
+[2018.07.11-12.03.54:548][880]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c71304ff30, Size=16, Default__SideScrollerExampleMap_C Function /Engine/Transient.REINST_SideScrollerExampleMap_C_163:ExecuteUbergraph_SideScrollerExampleMap
+[2018.07.11-12.03.54:549][880]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c71304f950, Size=16, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.07.11-12.03.54:717][880]LogSavePackage: Save=184.90ms
+[2018.07.11-12.03.54:717][880]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerExampleMap_Auto1B53A6A23453F005DB70D06A9B52CD53A.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2018.07.11-12.03.54:720][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap
+[2018.07.11-12.03.54:723][880]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.245
+[2018.07.11-12.03.54:723][880]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.245
+[2018.07.11-12.04.18:203][672]LogRenderer: Reallocating scene render targets to support 748x524 Format 10 NumSamples 1 (Frame:1).
+[2018.07.11-12.04.50:349][358]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.11-12.04.52:376][473]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c784f4a218, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.06.47:990][393]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4a218, Size=4
+[2018.07.11-12.06.47:990][393]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905eac60, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_169:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.06.47:992][393]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e9c70, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.06.49:753][495]LogSavePackage: Save=10.90ms
+[2018.07.11-12.06.49:753][495]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterface810C945045DF91FFD9664888C86315A9.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-12.06.49:757][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-12.06.50:059][513]BlueprintLog: New page: Compile RespawnInterface
+[2018.07.11-12.06.50:062][513]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e9c70, Size=4
+[2018.07.11-12.06.50:062][513]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e9c70, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_172:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.06.50:072][513]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c72c0c0d60, Size=160
+[2018.07.11-12.06.50:072][513]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74eb4d800, Size=160, SideScrollerCharacter_C_359 Function /Engine/Transient.REINST_SideScrollerCharacter_C_176:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.06.50:077][513]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74d9193a0, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.06.50:598][513]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c71304ff30, Size=16
+[2018.07.11-12.06.50:598][513]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e9c70, Size=4
+[2018.07.11-12.06.50:598][513]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905eac60, Size=4
+[2018.07.11-12.06.53:258][656]LogSavePackage: Save=40.55ms
+[2018.07.11-12.06.53:258][656]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacter82A48DE245EF1351E80311A4E30BE096.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-12.06.53:261][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-12.06.55:564][794]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.07.11-12.06.55:576][794]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74d9193a0, Size=160
+[2018.07.11-12.06.55:576][794]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c787314b80, Size=160, SideScrollerCharacter_C_381 Function /Engine/Transient.REINST_SideScrollerCharacter_C_181:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.06.55:581][794]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c787bdd3a0, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.06.56:008][794]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74eb4d800, Size=160
+[2018.07.11-12.07.39:729][375]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e9330, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.07.43:013][570]BlueprintLog: New page: Compile RespawnInterface
+[2018.07.11-12.07.43:015][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e9330, Size=4
+[2018.07.11-12.07.43:015][570]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e9330, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_188:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.07.43:024][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c787bdd3a0, Size=160
+[2018.07.11-12.07.43:024][570]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c791b08400, Size=160, SideScrollerCharacter_C_413 Function /Engine/Transient.REINST_SideScrollerCharacter_C_192:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.07.43:029][570]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c766e25a80, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.07.43:467][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c787314b80, Size=160
+[2018.07.11-12.07.43:468][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e9330, Size=4
+[2018.07.11-12.07.44:080][598]LogSavePackage: Save=10.75ms
+[2018.07.11-12.07.44:080][598]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterface85E514704714ADEF8DC1AD94E8BA9F4F.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-12.07.44:083][598]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-12.09.03:040][140]LogSavePackage: Save=43.49ms
+[2018.07.11-12.09.03:040][140]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacterC19903F74EAF82B8E0585BB9B8319708.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-12.09.03:043][140]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-12.09.03:432][163]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.07.11-12.09.03:446][163]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c766e25a80, Size=160
+[2018.07.11-12.09.03:446][163]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7914fcae0, Size=160, SideScrollerCharacter_C_435 Function /Engine/Transient.REINST_SideScrollerCharacter_C_197:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.09.03:451][163]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c79a8be660, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.09.03:926][163]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c791b08400, Size=160
+[2018.07.11-12.09.44:301][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74e3f9498, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.09.46:065][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74e3f9498, Size=4
+[2018.07.11-12.09.46:065][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74e3f9498, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_205:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.09.46:067][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74e3f90e8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.09.48:017][ 84]LogSavePackage: Save=10.95ms
+[2018.07.11-12.09.48:017][ 84]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/RespawnInterface87D2DE224440CB5BEE8FEBB5919BF729.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset'
+[2018.07.11-12.09.48:020][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/RespawnInterface.uasset
+[2018.07.11-12.09.48:519][114]BlueprintLog: New page: Compile RespawnInterface
+[2018.07.11-12.09.48:521][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74e3f90e8, Size=4
+[2018.07.11-12.09.48:521][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74e3f90e8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_208:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.09.48:532][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c79a8be660, Size=160
+[2018.07.11-12.09.48:532][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c78d6b2ca0, Size=160, SideScrollerCharacter_C_477 Function /Engine/Transient.REINST_SideScrollerCharacter_C_212:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.09.48:537][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c79a8beac0, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.09.49:014][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74e3f90e8, Size=4
+[2018.07.11-12.09.49:015][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7914fcae0, Size=160
+[2018.07.11-12.09.49:015][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74e3f9498, Size=4
+[2018.07.11-12.10.25:529][182]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.07.11-12.10.25:545][182]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c79a8beac0, Size=160
+[2018.07.11-12.10.25:545][182]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74d91b380, Size=160, SideScrollerCharacter_C_499 Function /Engine/Transient.REINST_SideScrollerCharacter_C_217:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.10.25:550][182]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c79a7e2c00, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.10.25:969][182]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c78d6b2ca0, Size=160
+[2018.07.11-12.10.26:217][185]LogSavePackage: Save=45.60ms
+[2018.07.11-12.10.26:217][185]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacter1417343349D942B62440EAB28B2BCC57.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-12.10.26:221][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-12.10.27:254][241]LogSavePackage: Save=35.93ms
+[2018.07.11-12.10.27:254][241]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacter9F86BC494759E84D97F899B5C029B848.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-12.10.27:256][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-12.10.27:757][267]LogSavePackage: Save=35.98ms
+[2018.07.11-12.10.27:757][267]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacterC4AC479942C1D4F4FC986C875AB8F47B.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-12.10.27:759][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-12.10.34:714][545]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e8890, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.10.39:555][827]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e8890, Size=4
+[2018.07.11-12.10.39:555][827]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e8890, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_221:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.10.39:557][827]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e96d0, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.10.52:746][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e96d0, Size=4
+[2018.07.11-12.10.52:746][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e96d0, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_223:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.10.52:749][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905ea720, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.10.53:249][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905ea720, Size=4
+[2018.07.11-12.10.53:250][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905ea720, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_225:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.10.53:252][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e82d8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.10.53:786][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e82d8, Size=4
+[2018.07.11-12.10.53:786][553]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e82d8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_227:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.10.53:788][553]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7905e9248, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.11.28:953][ 66]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e9248, Size=4
+[2018.07.11-12.11.28:953][ 66]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c75e8f6fc8, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_229:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.11.28:956][ 66]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c75e8f5668, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.11.36:244][241]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c75e8f5668, Size=4
+[2018.07.11-12.11.36:244][241]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74e3f9518, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_231:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.11.36:247][241]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74e3fb240, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.12.40:810][  2]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.11-12.15.55:012][689]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74e3fb240, Size=4
+[2018.07.11-12.15.55:012][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7a3a55610, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_233:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.15.55:016][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7a3a555d0, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.17.34:711][945]LogSavePackage: Save=56.34ms
+[2018.07.11-12.17.34:711][945]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacter459D84434E6B9640BFCF28BA3BB5B2D0.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-12.17.34:715][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-12.17.35:057][965]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.07.11-12.17.35:069][965]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7a3a555d0, Size=4
+[2018.07.11-12.17.35:069][965]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7a33aa010, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_235:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.17.35:082][965]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c79a7e2c00, Size=160
+[2018.07.11-12.17.35:082][965]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7aa9a0a40, Size=160, SideScrollerCharacter_C_661 Function /Engine/Transient.REINST_SideScrollerCharacter_C_237:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.17.35:128][965]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c79bbd5260, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.17.35:628][965]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74d91b380, Size=160
+[2018.07.11-12.17.35:629][965]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7a33aa010, Size=4
+[2018.07.11-12.21.38:272][428]LogSavePackage: Save=67.61ms
+[2018.07.11-12.21.38:272][428]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacterE2E4C4BC4612A4573E402F9E5C3BA615.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-12.21.38:276][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-12.21.38:787][458]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.07.11-12.21.38:819][458]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c79bbd5260, Size=160
+[2018.07.11-12.21.38:819][458]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7b480b060, Size=160, SideScrollerCharacter_C_683 Function /Engine/Transient.REINST_SideScrollerCharacter_C_241:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.21.38:829][458]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7b4dd3e20, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.22.09:831][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7b480b060, Size=160
+[2018.07.11-12.22.09:930][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c71304f950, Size=16
+[2018.07.11-12.22.09:930][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74d9a3160, Size=16, Default__SideScrollerExampleMap_C Function /Engine/Transient.REINST_SideScrollerExampleMap_C_245:ExecuteUbergraph_SideScrollerExampleMap
+[2018.07.11-12.22.09:933][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74d9a26b0, Size=16, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.07.11-12.22.10:151][  0]LogSavePackage: Save=229.85ms
+[2018.07.11-12.22.10:151][  0]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerExampleMap_Auto24A7B65F94C1E5B5180E0098119BA408A.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto2.umap'
+[2018.07.11-12.22.10:153][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto2.umap
+[2018.07.11-12.22.10:155][  0]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.360
+[2018.07.11-12.22.10:155][  0]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.360
+[2018.07.11-12.46.06:013][710]LogSlate: Window 'RespawnInterface' being destroyed
+[2018.07.11-12.46.06:017][710]LogSlate: Window 'RespawnInterface' being destroyed
+[2018.07.11-12.46.22:350][591]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713085c00, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.46.40:824][430]LogSlate: Window 'Message' being destroyed
+[2018.07.11-12.46.40:839][430]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713085c00, Size=4
+[2018.07.11-12.46.40:839][430]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713085c00, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_249:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.46.40:841][430]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713086280, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.46.44:180][615]LogSavePackage: Save=40.87ms
+[2018.07.11-12.46.44:180][615]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacterCE193E4445F5D87DBD4005933EABC3D5.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-12.46.44:183][615]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-12.46.44:557][637]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.07.11-12.46.44:561][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713086280, Size=4
+[2018.07.11-12.46.44:562][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713086280, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_251:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.46.44:566][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7b4dd3e20, Size=160
+[2018.07.11-12.46.44:567][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7a704de40, Size=160, SideScrollerCharacter_C_756 Function /Engine/Transient.REINST_SideScrollerCharacter_C_253:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.46.44:570][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c79bb03ce0, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.46.44:980][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74d9a3160, Size=16
+[2018.07.11-12.46.44:980][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713086280, Size=4
+[2018.07.11-12.46.44:980][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713085c00, Size=4
+[2018.07.11-12.46.45:814][684]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2018.07.11-12.46.45:817][684]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2018.07.11-12.47.00:278][857]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.11-12.47.03:961][ 34]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74d9a26b0, Size=16
+[2018.07.11-12.47.03:961][ 34]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7630a20f0, Size=16, Default__SideScrollerExampleMap_C Function /Engine/Transient.REINST_SideScrollerExampleMap_C_257:ExecuteUbergraph_SideScrollerExampleMap
+[2018.07.11-12.47.03:962][ 34]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7630a1ee0, Size=16, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.07.11-12.47.04:102][ 34]LogSavePackage: Save=143.71ms
+[2018.07.11-12.47.04:102][ 34]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerExampleMap_Auto30A2C43854CBF2440B29EF3BE780256D2.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto3.umap'
+[2018.07.11-12.47.04:103][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto3.umap
+[2018.07.11-12.47.04:106][ 34]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.196
+[2018.07.11-12.47.04:106][ 34]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.196
+[2018.07.11-12.47.12:163][511]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713085828, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.47.12:999][557]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713085828, Size=4
+[2018.07.11-12.47.12:999][557]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713085828, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_261:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.47.13:001][557]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713085960, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.47.13:929][608]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713085960, Size=4
+[2018.07.11-12.47.13:929][608]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713085960, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_263:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.47.13:930][608]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713086480, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.47.19:573][942]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713086480, Size=4
+[2018.07.11-12.47.19:573][942]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713086480, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_265:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.47.19:575][942]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7130841a0, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SKEL_SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.47.23:980][200]LogSlate: Window 'SideScrollerCharacter*' being destroyed
+[2018.07.11-12.47.23:983][200]LogSlate: Window 'SideScrollerCharacter*' being destroyed
+[2018.07.11-12.47.26:061][313]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7630a20f0, Size=16
+[2018.07.11-12.47.44:138][313]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.11-12.47.48:215][519]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.07.11-12.47.48:218][519]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7130841a0, Size=4
+[2018.07.11-12.47.48:218][519]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c78d352e78, Size=4, Default__SKEL_SideScrollerCharacter_C Function /Engine/Transient.REINST_SKEL_SideScrollerCharacter_C_267:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.47.48:222][519]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c79bb03ce0, Size=160
+[2018.07.11-12.47.48:223][519]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7b59eb880, Size=160, SideScrollerCharacter_C_825 Function /Engine/Transient.REINST_SideScrollerCharacter_C_269:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.47.48:226][519]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7b0df9940, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.07.11-12.47.48:742][519]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c78d352e78, Size=4
+[2018.07.11-12.47.49:394][541]LogSavePackage: Save=34.58ms
+[2018.07.11-12.47.49:394][541]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerCharacterE6BF1E244F13E0CD9A5E3EA9EF1F0C77.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.07.11-12.47.49:397][541]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.07.11-12.47.54:398][838]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2018.07.11-12.47.54:402][838]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2018.07.11-12.47.58:897][966]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.11-12.47.59:208][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c78dbc27a0, Size=160
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7a3a55610, Size=4
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74e3f9518, Size=4
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c75e8f6fc8, Size=4
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4b350, Size=4
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e96d0, Size=4
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4b558, Size=4
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4b808, Size=4
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49e28, Size=4
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e82d8, Size=4
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f484e0, Size=4
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4bb40, Size=4
+[2018.07.11-12.47.59:210][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905e8890, Size=4
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49588, Size=4
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713085828, Size=4
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49980, Size=4
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7b59eb880, Size=160
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49748, Size=4
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7627b0720, Size=160
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f49f78, Size=4
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7905ea720, Size=4
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f493a8, Size=4
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f4a658, Size=4
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7aa9a0a40, Size=160
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7a704de40, Size=160
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c766f2eb60, Size=160
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c784f48138, Size=4
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713086480, Size=4
+[2018.07.11-12.47.59:211][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713085960, Size=4
+[2018.07.11-12.48.03:676][118]LogSlate: Window 'Save Content' being destroyed
+[2018.07.11-12.48.03:816][118]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7630a1ee0, Size=16
+[2018.07.11-12.48.03:816][118]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c78db534a0, Size=16, Default__SideScrollerExampleMap_C Function /Engine/Transient.REINST_SideScrollerExampleMap_C_273:ExecuteUbergraph_SideScrollerExampleMap
+[2018.07.11-12.48.03:818][118]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c78db535e0, Size=16, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.07.11-12.48.03:987][118]LogSavePackage: Save=174.33ms
+[2018.07.11-12.48.03:987][118]LogSavePackage: Moving '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/SideScrollerExampleMap22A3AB644643557E0B99C3A8B366CA65.tmp' to '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.07.11-12.48.03:991][118]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2018.07.11-12.48.04:070][118]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.370
+[2018.07.11-12.48.04:191][118]LogSlate: Window 'frekansSideScroller - Unreal Editor' being destroyed
+[2018.07.11-12.48.04:191][118]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.11-12.48.04:436][119]Cmd: QUIT_EDITOR
+[2018.07.11-12.48.04:478][119]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.11-12.48.04:478][119]LogExit: Preparing to exit.
+[2018.07.11-12.48.04:620][119]LogDirectoryWatcher: A directory notification for 'C:/Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/' was aborted.
+[2018.07.11-12.48.04:673][119]LogExit: Editor shut down
+[2018.07.11-12.48.04:687][119]LogExit: Transaction tracking system shut down
+[2018.07.11-12.48.04:687][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c72c06f470, Size=80
+[2018.07.11-12.48.04:688][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713666250, Size=72
+[2018.07.11-12.48.04:688][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c71361e778, Size=40
+[2018.07.11-12.48.04:688][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c712d99200, Size=256
+[2018.07.11-12.48.04:690][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c73016d4e8, Size=4
+[2018.07.11-12.48.04:691][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c73016d4e0, Size=4
+[2018.07.11-12.48.04:692][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c78db534a0, Size=16
+[2018.07.11-12.48.04:692][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7b0df9940, Size=160
+[2018.07.11-12.48.04:692][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c78db535e0, Size=16
+[2018.07.11-12.48.04:839][119]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.11-12.48.04:839][119]LogDirectoryWatcher: A directory notification for '../../../../../../Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/' was aborted.
+[2018.07.11-12.48.04:839][119]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.11-12.48.04:839][119]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.11-12.48.04:839][119]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.11-12.48.04:840][119]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.11-12.48.04:840][119]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.11-12.48.04:840][119]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.11-12.48.04:979][119]LogExit: Object subsystem successfully closed.
+[2018.07.11-12.48.05:003][119]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.11-12.48.05:009][119]LogD3D11RHI: Shutdown
+[2018.07.11-12.48.05:009][119]LogD3D11RHI: CleanupD3DDevice
+[2018.07.11-12.48.05:036][119]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.11-12.48.05:058][119]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2018.07.11-12.48.05:058][119]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.07.11-12.48.05:058][119]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.07.11-12.48.05:058][119]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.07.11-12.48.05:058][119]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.07.11-12.48.05:058][119]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/Enterprise/FeaturePacks/' was aborted.
+[2018.07.11-12.48.05:060][119]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.07.11-12.48.05:060][119]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.07.11-12.48.05:060][119]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.07.11-12.48.05:060][119]LogDirectoryWatcher: A directory notification for 'C:/Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/Collections/' was aborted.
+[2018.07.11-12.48.05:060][119]LogDirectoryWatcher: A directory notification for 'C:/Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Content/Developers/mglenovo/Collections/' was aborted.
+[2018.07.11-12.48.05:060][119]LogDirectoryWatcher: A directory notification for 'C:/Users/mg-lenovo/Documents/Unreal Projects/frekansSideScroller/Saved/Collections/' was aborted.
+[2018.07.11-12.48.05:060][119]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.07.11-12.48.05:060][119]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.07.11-12.48.05:060][119]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.07.11-12.48.05:060][119]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.07.11-12.48.05:060][119]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.07.11-12.48.05:061][119]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.07.11-12.48.05:062][119]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.07.11-12.48.05:062][119]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.07.11-12.48.05:062][119]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.07.11-12.48.05:062][119]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.07.11-12.48.05:062][119]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.07.11-12.48.05:062][119]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.07.11-12.48.05:062][119]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.07.11-12.48.05:062][119]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.07.11-12.48.05:062][119]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.07.11-12.48.05:062][119]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.07.11-12.48.05:062][119]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.07.11-12.48.05:063][119]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.07.11-12.48.05:063][119]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.07.11-12.48.05:063][119]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.07.11-12.48.05:063][119]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.07.11-12.48.05:147][119]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.07.11-12.48.05:147][119]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.07.11-12.48.05:147][119]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.07.11-12.48.05:147][119]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.07.11-12.48.05:147][119]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.07.11-12.48.05:147][119]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.07.11-12.48.05:148][119]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.07.11-12.48.05:192][119]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.07.11-12.48.05:192][119]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.07.11-12.48.05:192][119]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.07.11-12.48.05:192][119]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.07.11-12.48.05:192][119]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.07.11-12.48.05:192][119]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.07.11-12.48.05:192][119]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.07.11-12.48.05:192][119]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.07.11-12.48.05:192][119]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.07.11-12.48.05:192][119]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.07.11-12.48.05:202][119]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.07.11-12.48.05:202][119]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.07.11-12.48.05:204][119]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.07.11-12.48.05:204][119]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.07.11-12.48.05:204][119]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.07.11-12.48.05:204][119]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.07.11-12.48.05:205][119]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.07.11-12.48.05:303][119]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.07.11-12.48.05:303][119]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.07.11-12.48.05:303][119]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.07.11-12.48.05:303][119]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.07.11-12.48.05:303][119]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.07.11-12.48.05:303][119]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.07.11-12.48.05:303][119]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.07.11-12.48.05:304][119]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.07.11-12.48.05:304][119]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.07.11-12.48.05:304][119]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.07.11-12.48.05:304][119]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.07.11-12.48.05:304][119]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.07.11-12.48.05:304][119]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.07.11-12.48.05:304][119]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.07.11-12.48.05:304][119]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.07.11-12.48.05:304][119]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.07.11-12.48.05:304][119]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.07.11-12.48.05:307][119]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.07.11-12.48.05:307][119]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.07.11-12.48.05:308][119]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.07.11-12.48.05:410][119]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.07.11-12.48.05:510][119]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.07.11-12.48.05:510][119]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.07.11-12.48.05:510][119]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.07.11-12.48.05:510][119]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.07.11-12.48.05:510][119]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.07.11-12.48.05:510][119]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.07.11-12.48.05:511][119]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.07.11-12.48.05:511][119]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.07.11-12.48.05:511][119]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.07.11-12.48.05:511][119]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.07.11-12.48.05:512][119]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.07.11-12.48.05:514][119]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.07.11-12.48.05:514][119]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.07.11-12.48.05:514][119]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.07.11-12.48.05:514][119]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.07.11-12.48.06:271][119]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.07.11-12.48.06:271][119]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.07.11-12.48.06:271][119]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.07.11-12.48.06:272][119]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.07.11-12.48.06:279][119]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.07.11-12.48.06:280][119]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.07.11-12.48.06:280][119]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.07.11-12.48.06:280][119]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.07.11-12.48.06:280][119]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.07.11-12.48.06:280][119]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.07.11-12.48.06:280][119]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.07.11-12.48.06:282][119]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.07.11-12.48.06:286][119]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.07.11-12.48.06:331][119]LogDerivedDataCache: Shutdown
+[2018.07.11-12.48.06:331][119]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.07.11-12.48.06:331][119]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.07.11-12.48.06:331][119]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.07.11-12.48.06:332][119]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.11-12.48.06:333][119]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.11-12.48.06:334][119]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.11-12.48.06:334][119]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.11-12.48.06:334][119]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.11-12.48.06:334][119]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.11-12.48.06:334][119]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2898FCC9-4119-8CE8-3635-A6AD0507F1D9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=ed59b89a4ffbc480e0ffa6a12f01c482%7Ccc3f9436d5ef46eab972a81d170eca09%7C5e1261bc-e315-43b7-9a6f-becd74040f3c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.11-12.48.06:349][119]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.11-12.48.06:350][119]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.11-12.48.06:351][119]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.11-12.48.06:351][119]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.11-12.48.06:351][119]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.11-12.48.06:351][119]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.11-12.48.06:351][119]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.11-12.48.06:351][119]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.11-12.48.06:352][119]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.11-12.48.06:352][119]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.11-12.48.06:352][119]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.11-12.48.06:352][119]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.11-12.48.06:352][119]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.11-12.48.06:352][119]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.11-12.48.06:353][119]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.11-12.48.06:353][119]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.11-12.48.06:353][119]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.11-12.48.06:353][119]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.11-12.48.06:353][119]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.11-12.48.06:360][119]LogExit: Exiting.
+[2018.07.11-12.48.06:384][119]Log file closed, 07/11/18 15:48:06
